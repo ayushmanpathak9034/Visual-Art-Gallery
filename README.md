@@ -73,4 +73,4 @@ Each section includes:
 * Understanding basic HTML structure
 * Working with images and links
 * Using lists and tables
-* Structuring a simple webpage layout
+* Structuring a webpage layout
